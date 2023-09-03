@@ -26,7 +26,9 @@ namespace = "#e4b28f"
 "ui.gutter" = "#2f3138"
 "ui.gutter.selected" = "#797b80"
 "ui.selection" = { bg = "selection" }
+"ui.virtual.whitespace" = { fg = "#2f3138"}
 "ui.virtual.indent-guide" = { fg = "#2f3138"}
+"ui.virtual.inlay-hint" = { fg = "#2f3138"}
 "ui.statusline" = { bg = "shadow", fg = "orange" }
 
 "ui.popup" = { bg = "shadow", fg = "orange" }
