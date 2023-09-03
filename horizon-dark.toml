@@ -4,7 +4,7 @@ constant = "#a95ec9"
 "constant.numeric" = "#e4b28f"
 "constant.builtin" = "#e4b28f"
 variable = "#d55070"
-comment = "#26cf98"
+comment = "#20b281"
 special = "#a96ec9"
 "punctuation.bracket" = "#a96ec9"
 keyword = "#a96ec9"
@@ -28,12 +28,13 @@ namespace = "#e4b28f"
 "ui.selection" = { bg = "selection" }
 "ui.virtual.whitespace" = { fg = "#2f3138"}
 "ui.virtual.indent-guide" = { fg = "#2f3138"}
-"ui.virtual.inlay-hint" = { fg = "#2f3138"}
+"ui.virtual.inlay-hint" = { fg = "selection"}
 "ui.statusline" = { bg = "shadow", fg = "orange" }
 
 "ui.popup" = { bg = "shadow", fg = "orange" }
 "ui.help" = { bg = "shadow", fg = "orange" }
 "ui.menu" = { bg = "shadow", fg = "orange" }
+"ui.menu.selected" = { bg = "selection", fg = "orange" }
 "ui.window" = "selection"
 
 "diagnostic" = { underline = { style = "curl" } }
